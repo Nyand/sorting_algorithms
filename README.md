@@ -34,5 +34,5 @@ and functions written for the task `1000-sort_deck.c`.
 
 ## Project team:
 
-- [Hagos Mehari](https://github.com/Hagos2022)
-- [Letina Sandaiya](https://github.com/Letina-sage)
+- Robert
+- Geoffrey
